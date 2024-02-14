@@ -33,7 +33,7 @@
 
     "orderRecap": {
         "order_summary": "Résumé de la commande",
-        "cartContains": "Votre panier contient {{count}} articles",
+        "cartContains": "Votre panier contient {{count}} article",
         "cartContains_other": "Votre panier contient {{count}} articles",
         "coupon_code": "Code promotionel",
         "gift_card_code": "Code carte cadeau",
